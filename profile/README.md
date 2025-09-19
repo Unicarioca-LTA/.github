@@ -47,4 +47,4 @@ Aqui centralizamos nossos projetos de pesquisa e desenvolvimento, com foco em **
 
 ---
 
-🔒 **Nota:** embora a organização seja pública, todos os **projetos de pesquisa ativos são privados** e destinados apenas aos membros do laboratório.
+🔒 **Nota:** embora a organização seja pública, todos os **projetos de pesquisa ativos são privados** e destinados apenas aos membros do laboratório. 
