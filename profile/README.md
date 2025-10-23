@@ -19,6 +19,8 @@ Aqui centralizamos nossos projetos de pesquisa e desenvolvimento, com foco em **
 * **Privados**: projetos em andamento (Unity, Unreal, aplicações web)
 * **Públicos**: materiais de divulgação, documentação e repositórios auxiliares
 
+**é importante acessar o  unity-git-guia no repositório**
+
 📌 Somente membros do laboratório têm acesso aos repositórios privados.
 
 ---
