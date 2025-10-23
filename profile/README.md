@@ -1,52 +1,61 @@
-# 🧪 Laboratório de Tecnologia Aplicada — LTA Unicarioca
+🧪 Laboratório de Tecnologia Aplicada — LTA Unicarioca
 
-Bem-vindo ao repositório oficial do **LTA (Laboratório de Tecnologia Aplicada) da Unicarioca**.
-Aqui centralizamos nossos projetos de pesquisa e desenvolvimento, com foco em **inovação, jogos digitais, XR e aplicações interativas**.
+Bem-vindo ao repositório oficial do LTA (Laboratório de Tecnologia Aplicada) da Unicarioca.
+Aqui desenvolvemos projetos de pesquisa, inovação, jogos digitais, XR e aplicações interativas, formando profissionais capazes de atuar em equipes reais de desenvolvimento.
 
----
+⸻
 
-## 🎯 Nossa missão
+📂 Estrutura da Organização
+	•	Repositórios Privados → projetos ativos (Unity, Unreal, Web e protótipos internos)
+	•	Repositórios Públicos → documentação, guias e materiais institucionais
 
-* Apoiar estudantes de iniciação científica em projetos aplicados
-* Explorar tecnologias como **Unity, Unreal, Supabase, React e GitHub Actions**
-* Gerenciar o ciclo de vida de projetos de forma colaborativa e organizada
-* Produzir conhecimento e soluções para a comunidade acadêmica e além
+🔗 Obrigatório: antes de começar qualquer tarefa, leia o repositório unity-git-guia
 
----
+⸻
 
-## 📂 Estrutura dos repositórios
+🕒 Regras e Modelo de Trabalho
 
-* **Privados**: projetos em andamento (Unity, Unreal, aplicações web)
-* **Públicos**: materiais de divulgação, documentação e repositórios auxiliares
+Estamos adotando o modelo híbrido:
+	•	3 dias presenciais
+	•	2 dias de trabalho remoto
 
-**é importante acessar o  unity-git-guia no repositório**
+📌 Home office é trabalho, não folga.
+Se o modelo não for respeitado, voltaremos ao 100% presencial.
 
-📌 Somente membros do laboratório têm acesso aos repositórios privados.
+⸻
 
----
+📌 Disciplina e Ambiente Profissional
 
-## 👥 Colaboração
+As regras abaixo têm um propósito claro: preparar vocês para o mercado de trabalho.
+Em empresas reais, quem não segue regras, não produz ou tenta enganar a equipe — está na rua. Aqui, a postura precisa ser a mesma.
 
-* **Estudantes**: podem propor, versionar e evoluir projetos sob orientação do laboratório
-* **Orientadores**: supervisionam e orientam boas práticas em desenvolvimento
-* **Parceiros externos**: podem acessar repositórios específicos, mediante autorização
+No LTA, portanto:
+	•	🚫 Nada de tarefas pessoais no horário de trabalho
+	•	🚫 Nada de redes sociais à toa (TikTok, Instagram etc.)
+	•	🚫 Sem rodas de conversa que não sejam sobre o projeto
+	•	✅ Postura profissional, foco e proatividade — ninguém deve ficar “parado”
 
----
+Estou ajudando vocês ao máximo. Em troca, espero responsabilidade, respeito e consideração.
+Esse laboratório é uma oportunidade real, não um passatempo.
 
-## 🛠️ Tecnologias em uso
+⸻
 
-* Unity & Unreal Engine 🎮
-* React + Supabase 🌐
-* GitHub Actions ⚡
-* Ferramentas de CI/CD e automação
+🗂️ Weekly Log — Controle de Entrega e Atividade
 
----
+Para manter clareza e evitar “achismos”, o controle será objetivo:
 
-## 📫 Contato
+📌 Toda sexta-feira, cada aluno deve atualizar o README do projeto em que está atuando, contendo:
+	•	Data
+	•	Resumo do que foi feito na semana
+	•	Status atual
+	•	O que será feito na próxima semana
 
-* 🌐 [Unicarioca](https://www.unicarioca.edu.br)
-* 📧 [lta@unicarioca.edu.br](mailto:lta@unicarioca.edu.br) (ou o e-mail institucional que vocês usarem)
+Isso será usado para acompanhar entrega, comprometimento e produtividade.
 
----
+➤ Tentativa de enganar, inventar ou omitir trabalho será encarada como falta grave — e pior do que assumir que não produziu. Transparência sempre.
 
-🔒 **Nota:** embora a organização seja pública, todos os **projetos de pesquisa ativos são privados** e destinados apenas aos membros do laboratório. 
+⸻
+
+📫 Contato
+	•	🌐 Unicarioca
+	•	📧 lta@unicarioca.edu.br
