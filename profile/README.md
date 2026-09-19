@@ -1,56 +1,43 @@
 # 🧪 Laboratório de Tecnologia Aplicada — LTA Unicarioca
 
-Bem-vindo ao repositório oficial do LTA (Laboratório de Tecnologia Aplicada) da Unicarioca.
-Aqui desenvolvemos projetos de pesquisa, inovação, jogos digitais, XR e aplicações interativas, formando profissionais capazes de atuar em equipes reais de desenvolvimento.
-
----
-## 📂 Estrutura da Organização
-- **Repositórios Privados** → projetos ativos (Unity, Unreal, Web e protótipos internos)
-- **Repositórios Públicos** → documentação, guias e materiais institucionais
-
-> 🔗 Obrigatório: antes de começar qualquer tarefa, leia o repositório unity-git-guia
+Bem-vindo ao repositório oficial do LTA (Laboratório de Tecnologia Aplicada) da Unicarioca. Aqui desenvolvemos projetos de pesquisa, inovação, jogos digitais, XR e aplicações interativas — formando profissionais prontos pra atuar em equipes reais de desenvolvimento.
 
 ---
 
-## 🕒 Regras e Modelo de Trabalho
+## 📂 Como a organização é dividida
+- **Repositórios privados** → projetos ativos (Unity, Unreal, Web e protótipos internos)
+- **Repositórios públicos** → documentação, guias e materiais institucionais
 
-Estamos adotando o **modelo híbrido**:
-- 3 dias **presenciais**
-- 2 dias de **trabalho remoto**
-
-> 📌 Home office é trabalho, não folga.
-> Se o modelo não for respeitado, voltaremos ao 100% presencial.
+> 🔗 Antes de começar qualquer tarefa, leia o repositório `unity-git-guia` — é obrigatório.
 
 ---
 
-## 📌 Disciplina e Ambiente Profissional
+## 🕒 Modelo de trabalho
 
-As regras abaixo têm um propósito claro: **preparar vocês para o mercado de trabalho.**
-Em empresas reais, quem não segue regras, não produz ou tenta enganar a equipe - está na rua. Aqui, a postura precisa ser a mesma.
-
-### No LTA, portanto:
-- 🚫 Nada de tarefas pessoais no horário de trabalho
-- 🚫 Nada de redes sociais à toa (TikTok, Instagram etc.)
-- 🚫 Sem rodas de conversa que não sejam sobre o projeto
-- ✅ Postura profissional, foco e proatividade — ninguém deve ficar “parado”
-
-> Estou ajudando vocês ao máximo. Em troca, espero responsabilidade, respeito e consideração.
-> Esse laboratório é uma oportunidade real, não um passatempo.
+Trabalhamos no modelo **híbrido**: 3 dias presenciais e 2 dias remotos por semana. Home office é dia de trabalho normal, não é folga.
 
 ---
 
-## 🗂️ Weekly Log — Controle de Entrega e Atividade
+## 💼 Nosso jeito de trabalhar
 
-Para manter clareza e evitar “achismos”, o controle será **objetivo**:
+Estamos aqui pra te preparar de verdade pro mercado — então o ambiente segue os mesmos padrões de uma empresa real:
 
-📌 **Toda sexta-feira**, cada aluno deve atualizar o **README** do projeto em que está atuando, contendo:
-	- **Data**
-	- **Resumo** do que foi feito na semana
-	- **Status atual**
-	- **O que será feito** na próxima semana
+- Foco no horário de trabalho, sem tarefas pessoais ou redes sociais à toa
+- Conversas dentro do expediente giram em torno do projeto
+- Postura proativa: se travou em algo, peça ajuda em vez de ficar parado
 
-Isso será usado para acompanhar entrega, comprometimento e produtividade.
+Em troca do apoio que você recebe aqui, a expectativa é responsabilidade e respeito com o time. Esse laboratório é uma oportunidade real — trate assim.
 
-> ➤ Tentativa de enganar, inventar ou omitir trabalho será encarada como falta grave — e pior do que assumir que não produziu. Transparência sempre.
+---
+
+## 🗂️ Log semanal — como acompanhamos o progresso
+
+Toda **sexta-feira**, atualize o README do projeto em que você está atuando com:
+1. Data
+2. O que foi feito na semana
+3. Status atual
+4. O que vem a seguir
+
+É isso que usamos pra acompanhar entrega e comprometimento, sem achismo. Se algo não andou, é só registrar: esconder ou inventar é bem mais grave do que admitir que travou.
 
 ---
