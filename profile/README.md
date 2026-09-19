@@ -8,7 +8,7 @@ Bem-vindo ao repositório oficial do LTA (Laboratório de Tecnologia Aplicada) d
 - **Repositórios privados** → projetos ativos (Unity, Unreal, Web e protótipos internos)
 - **Repositórios públicos** → documentação, guias e materiais institucionais
 
-> 🔗 Antes de começar qualquer tarefa, leia o repositório `unity-git-guia` — é obrigatório.
+> 🔗 Antes de começar qualquer tarefa, leia o guia [`unity-git-guia`](https://github.com/Unicarioca-LTA/unity-git-guia) — é obrigatório. Pra começar um projeto novo, parta do [`example-unity-template`](https://github.com/Unicarioca-LTA/example-unity-template).
 
 ---
 
