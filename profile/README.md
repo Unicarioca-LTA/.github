@@ -54,9 +54,3 @@ Isso será usado para acompanhar entrega, comprometimento e produtividade.
 > ➤ Tentativa de enganar, inventar ou omitir trabalho será encarada como falta grave — e pior do que assumir que não produziu. Transparência sempre.
 
 ---
-
-## 📫 Contato
-- 🌐 Unicarioca
-- 📧 lta@unicarioca.edu.br
-  
----
